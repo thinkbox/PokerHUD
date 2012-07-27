@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+    <hand id_fichier="83024714159" level="X" sb="150" bb="300" ante="20" winner="hansen" content="content main 1" />
+    <hand id_fichier="83024714350" level="I" sb="10" bb="20" ante="0" winner="ivey" content="content main 2" />
+    <hand id_fichier="832156458745" level="IV" sb="30" bb="60" ante="5" winner="Binchou1981" content="content nouvelle main" />
+</dataset>

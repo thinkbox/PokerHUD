@@ -1,0 +1,58 @@
+PokerStars Hand #83024714158: Tournament #588010287, $5.00+$0.50 USD Hold'em No Limit - Level X (100/200) - 2012/07/08 17:09:36 CET [2012/07/08 11:09:36 ET]
+Table '588010287 42' 9-max Seat #1 is the button
+Seat 1: gr thilias (6535 in chips)
+Seat 2: SERGgogo (1622 in chips)
+Seat 3: Great Ararat (8279 in chips)
+Seat 4: ranchatoma13 (6637 in chips)
+Seat 5: evasion80 (8786 in chips)
+Seat 6: Gabesz29 (2655 in chips)
+Seat 7: PABLO PELUSA (7190 in chips)
+Seat 8: Paco-energie (3947 in chips)
+Seat 9: Rokk3r (6995 in chips)
+gr thilias: posts the ante 25
+SERGgogo: posts the ante 25
+Great Ararat: posts the ante 25
+ranchatoma13: posts the ante 25
+evasion80: posts the ante 25
+Gabesz29: posts the ante 25
+PABLO PELUSA: posts the ante 25
+Paco-energie: posts the ante 25
+Rokk3r: posts the ante 25
+SERGgogo: posts small blind 100
+Great Ararat: posts big blind 200
+*** HOLE CARDS ***
+Dealt to evasion80 
+ranchatoma13: folds
+evasion80: raises 400 to 600
+Gabesz29: folds
+PABLO PELUSA: calls 600
+Paco-energie: folds
+Rokk3r: folds
+gr thilias: folds
+SERGgogo: folds
+Great Ararat: folds
+*** FLOP *** 
+evasion80: bets 1200
+PABLO PELUSA: calls 1200
+*** TURN ***  
+evasion80: bets 6961 and is all-in
+PABLO PELUSA: calls 5365 and is all-in
+Uncalled bet (1596) returned to evasion80
+*** RIVER ***  
+*** SHOW DOWN ***
+evasion80: shows  (two pair, Kings and Queens)
+PABLO PELUSA: shows  (two pair, Queens and Tens)
+evasion80 collected 14855 from pot
+PABLO PELUSA finished the tournament in 3625th place
+*** SUMMARY ***
+Total pot 14855 | Rake 0
+Board 
+Seat 1: gr thilias (button) folded before Flop (didn't bet)
+Seat 2: SERGgogo (small blind) folded before Flop
+Seat 3: Great Ararat (big blind) folded before Flop
+Seat 4: ranchatoma13 folded before Flop (didn't bet)
+Seat 5: evasion80 showed  and won (14855) with two pair, Kings and Queens
+Seat 6: Gabesz29 folded before Flop (didn't bet)
+Seat 7: PABLO PELUSA showed  and lost with two pair, Queens and Tens
+Seat 8: Paco-energie folded before Flop (didn't bet)
+Seat 9: Rokk3r folded before Flop (didn't bet)

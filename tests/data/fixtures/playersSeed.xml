@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+    <player id="1" name="hansen" nb_hands="124" 
+    		updated="2012-07-23 15:04:14" created="2012-07-10 10:24:36" />
+    <player id="2" name="ivey" nb_hands="1" 
+    		updated="2012-07-10 10:24:36" created="2012-07-10 10:24:36" />
+    <player id="3" name="hellmuth" nb_hands="42" 
+    		updated="2012-07-14 10:24:36" created="2012-07-10 01:21:54" />
+</dataset>

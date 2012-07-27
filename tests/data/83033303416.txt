@@ -1,0 +1,53 @@
+PokerStars Hand #83033303416: Tournament #588010003, $10+$1 USD Hold'em No Limit - Level IV (40/80) - 2012/07/08 20:11:36 CET [2012/07/08 14:11:36 ET]
+Table '588010003 1382' 9-max Seat #6 is the button
+Seat 1: rael81 (7574 in chips)
+Seat 2: Andrey2402 (5000 in chips)
+Seat 3: BELLAURORA (6663 in chips)
+Seat 4: evasion80 (12084 in chips)
+Seat 5: AlfaCephei (5640 in chips)
+Seat 6: Tomukas XIII (2582 in chips)
+Seat 7: Oshirasama (11280 in chips)
+Seat 8: SERYO_GT (4940 in chips)
+Seat 9: Dubaipoker80 (10390 in chips)
+Oshirasama: posts small blind 40
+SERYO_GT: posts big blind 80
+*** HOLE CARDS ***
+Dealt to evasion80 
+Dubaipoker80: calls 80
+rael81: folds
+Andrey2402: folds
+BELLAURORA: folds
+evasion80: raises 240 to 320
+AlfaCephei: folds
+Tomukas XIII: folds
+Oshirasama: calls 280
+SERYO_GT: folds
+Dubaipoker80: calls 240
+*** FLOP *** 
+Oshirasama: checks
+Dubaipoker80: checks
+evasion80: bets 720
+Oshirasama: folds
+Dubaipoker80: raises 1440 to 2160
+evasion80: raises 9604 to 11764 and is all-in
+Dubaipoker80: calls 7910 and is all-in
+Uncalled bet (1694) returned to evasion80
+*** TURN ***  
+*** RIVER ***  
+*** SHOW DOWN ***
+Dubaipoker80: shows  (a straight flush, Five to Nine)
+evasion80: shows  (a straight flush, Five to Nine)
+Dubaipoker80 collected 10590 from pot
+evasion80 collected 10590 from pot
+*** SUMMARY ***
+Total pot 21180 | Rake 0
+Board 
+Seat 1: rael81 folded before Flop (didn't bet)
+Seat 2: Andrey2402 folded before Flop (didn't bet)
+Seat 3: BELLAURORA folded before Flop (didn't bet)
+Seat 4: evasion80 showed  and won (10590) with a straight flush, Five to Nine
+Seat 5: AlfaCephei folded before Flop (didn't bet)
+Seat 6: Tomukas XIII (button) folded before Flop (didn't bet)
+Seat 7: Oshirasama (small blind) folded on the Flop
+Seat 8: SERYO_GT (big blind) folded before Flop
+Seat 9: Dubaipoker80 showed  and won (10590) with a straight flush, Five to Nine

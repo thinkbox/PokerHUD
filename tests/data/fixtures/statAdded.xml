@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+    <stat id_player="1" 
+    	  	type="nombre de flops vus" valeur="15" />
+    <stat id_player="1" 
+    		type="nombre de check raise" valeur="4" />
+    <stat id_player="15" 
+    		type="nombre de flops vus" valeur="60" />
+    <stat id_player="15" 
+    		type="nombre de check raise" valeur="2" />
+</dataset>

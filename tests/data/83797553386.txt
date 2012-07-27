@@ -1,0 +1,35 @@
+PokerStars Hand #83797553386: Tournament #591814130, €0.47+€0.03 EUR Hold'em No Limit - Level VI (50/100) - 2012/07/24 22:46:27 CET [2012/07/24 16:46:27 ET]
+Table '591814130 1' 6-max Seat #3 is the button
+Seat 1: strucat (1800 in chips)
+Seat 3: piquevert (1250 in chips)
+Seat 4: klem_76@275 (2310 in chips)
+Seat 5: Binchou1981 (1830 in chips)
+Seat 6: 09anna (1810 in chips)
+strucat: posts the ante 10
+piquevert: posts the ante 10
+klem_76@275: posts the ante 10
+Binchou1981: posts the ante 10
+09anna: posts the ante 10
+klem_76@275: posts small blind 50
+Binchou1981: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Binchou1981 [Kc Ks]
+09anna: folds
+strucat: folds
+piquevert: folds
+klem_76@275: calls 50
+Binchou1981: raises 300 to 400
+klem_76@275: folds
+Uncalled bet (300) returned to Binchou1981
+Binchou1981 collected 250 from pot
+Binchou1981: shows [Kc Ks] (a pair of Kings)
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Seat 1: strucat folded before Flop (didn't bet)
+Seat 3: piquevert (button) folded before Flop (didn't bet)
+Seat 4: klem_76@275 (small blind) folded before Flop
+Seat 5: Binchou1981 (big blind) collected (250)
+Seat 6: 09anna folded before Flop (didn't bet)
+
+
+*********** # 31 **************

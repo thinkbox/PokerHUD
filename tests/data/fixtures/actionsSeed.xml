@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+    <action id="1" id_hand="125" name_player="hansen" position="bouton" 
+    		action_preflop="raise" action_flop="check, raise" action_turn="bet" action_river="" 
+    		resultat="won" treated="0" updated="2012-07-10 10:24:36" created="2012-07-10 10:24:36" />
+    <action id="2" id_hand="126" name_player="ivey" position="big blind" 
+    		action_preflop="call" action_flop="bet, call" action_turn="fold" action_river="" 
+    		resultat="fold" treated="0" updated="2012-07-10 10:24:38" created="2012-07-10 10:24:38" />
+</dataset>

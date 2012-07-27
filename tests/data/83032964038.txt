@@ -1,0 +1,52 @@
+PokerStars Hand #83032964038: Tournament #588010003, $10+$1 USD Hold'em No Limit - Level III (30/60) - 2012/07/08 20:05:31 CET [2012/07/08 14:05:31 ET]
+Table '588010003 1382' 9-max Seat #6 is the button
+Seat 1: rael81 (8574 in chips)
+Seat 2: ShortyFlix (7315 in chips)
+Seat 3: BELLAURORA (4910 in chips)
+Seat 4: evasion80 (5672 in chips)
+Seat 5: AlfaCephei (5000 in chips)
+Seat 6: Tomukas XIII (2902 in chips)
+Seat 7: Oshirasama (11390 in chips)
+Seat 8: SERYO_GT (4910 in chips)
+Seat 9: Dubaipoker80 (10480 in chips)
+Oshirasama: posts small blind 30
+SERYO_GT: posts big blind 60
+*** HOLE CARDS ***
+Dealt to evasion80 
+Dubaipoker80: folds
+rael81: folds
+ShortyFlix: raises 120 to 180
+BELLAURORA: folds
+evasion80: calls 180
+AlfaCephei: folds
+Tomukas XIII: folds
+Oshirasama: folds
+SERYO_GT: folds
+*** FLOP *** 
+ShortyFlix: bets 245
+evasion80: raises 415 to 660
+ShortyFlix: calls 415
+*** TURN ***  
+ShortyFlix: checks
+evasion80: bets 1200
+ShortyFlix: calls 1200
+*** RIVER ***  
+ShortyFlix: checks
+evasion80: bets 3632 and is all-in
+ShortyFlix: calls 3632
+*** SHOW DOWN ***
+evasion80: shows  (a full house, Fives full of Queens)
+ShortyFlix: shows  (three of a kind, Queens)
+evasion80 collected 11434 from pot
+*** SUMMARY ***
+Total pot 11434 | Rake 0
+Board 
+Seat 1: rael81 folded before Flop (didn't bet)
+Seat 2: ShortyFlix showed  and lost with three of a kind, Queens
+Seat 3: BELLAURORA folded before Flop (didn't bet)
+Seat 4: evasion80 showed  and won (11434) with a full house, Fives full of Queens
+Seat 5: AlfaCephei folded before Flop (didn't bet)
+Seat 6: Tomukas XIII (button) folded before Flop (didn't bet)
+Seat 7: Oshirasama (small blind) folded before Flop
+Seat 8: SERYO_GT (big blind) folded before Flop
+Seat 9: Dubaipoker80 folded before Flop (didn't bet)

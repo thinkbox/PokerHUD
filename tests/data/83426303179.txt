@@ -1,0 +1,44 @@
+PokerStars Hand #83426303179: Tournament #588308005, €0.47+€0.03 EUR Hold'em No Limit - Level IX (100/200) - 2012/07/17 0:13:31 CET [2012/07/16 18:13:31 ET]
+Table '588308005 1' 6-max Seat #3 is the button
+Seat 2: diplodox500 (360 in chips)
+Seat 3: Mr Jean-Gui (1315 in chips)
+Seat 4: Binchou1981 (2920 in chips)
+Seat 5: micha06200 (1795 in chips)
+Seat 6: stephan86460 (2610 in chips)
+diplodox500: posts the ante 25
+Mr Jean-Gui: posts the ante 25
+Binchou1981: posts the ante 25
+micha06200: posts the ante 25
+stephan86460: posts the ante 25
+Binchou1981: posts small blind 100
+micha06200: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Binchou1981 [Jh 6h]
+stephan86460: folds
+diplodox500: folds
+Mr Jean-Gui: calls 200
+Binchou1981: calls 100
+micha06200: checks
+*** FLOP *** [3c Qc Qs]
+Binchou1981: checks
+micha06200: bets 200
+Mr Jean-Gui: calls 200
+Binchou1981: folds
+*** TURN *** [3c Qc Qs] [Kc]
+micha06200: checks
+Mr Jean-Gui: bets 890 and is all-in
+micha06200: folds
+Uncalled bet (890) returned to Mr Jean-Gui
+Mr Jean-Gui collected 1125 from pot
+Mr Jean-Gui: doesn't show hand
+*** SUMMARY ***
+Total pot 1125 | Rake 0
+Board [3c Qc Qs Kc]
+Seat 2: diplodox500 folded before Flop (didn't bet)
+Seat 3: Mr Jean-Gui (button) collected (1125)
+Seat 4: Binchou1981 (small blind) folded on the Flop
+Seat 5: micha06200 (big blind) folded on the Turn
+Seat 6: stephan86460 folded before Flop (didn't bet)
+
+
+*********** # 37 **************
